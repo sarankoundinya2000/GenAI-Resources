@@ -39,7 +39,6 @@ Welcome to this curated list of helpful resources I've explored during my journe
 ## **Building Custom LLMs**
 - [Building LLMs for Production](https://medium.com/@marvin_thompson/text2sql-is-out-rag2sql-is-in-5fd160a004f0)
 - [Best Book for LLMs](https://livebook.manning.com/book/build-a-large-language-model-from-scratch/welcome/v-8/) 📚
-- [GitHub Repository for LLMs From Scratch](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch01)
 - [Llama.cpp Repository](https://github.com/ggerganov/llama.cpp) 🦙
 
 ## **Retrieval-Augmented Generation (RAG)**
