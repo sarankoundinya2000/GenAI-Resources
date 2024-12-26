@@ -6,6 +6,10 @@ Welcome to this curated list of helpful resources I've explored during my journe
 
 ## **Word2Vec**
 - [Illustrated Word2Vec by Jay Alammar](https://jalammar.github.io/illustrated-word2vec/) 🌟
+- Gensim: [Word2Vec Implementation](https://radimrehurek.com/gensim/models/word2vec.html)
+#### **Word Embedding Techniques**
+- Glove: [Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+- FastText: [Efficient Word Representations](https://fasttext.cc/)
 
 ## **Zero-Shot Prompting**
 - [Zero-shot prompting for the FLAN-T5 Foundation Model on Amazon SageMaker Jumpstart](https://aws.amazon.com/blogs/machine-learning/zero-shot-prompting-for-the-flan-t5-foundation-model-in-amazon-sagemaker-jumpstart/) 💡
@@ -49,5 +53,21 @@ Welcome to this curated list of helpful resources I've explored during my journe
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 
 ---
+## **Additional Resources**
+- [PyTorch Implementation of Transformers](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [Speech and Language Processing by Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/)
+- [NLP Lecture Series (30 Hours)](https://www.youtube.com/watch?v=mEsleV16qdo&t=31s)
+- [Cohere NLP and Generative AI Platform](https://docs.cohere.com/docs/the-cohere-platform)
+- [Vision Transformers (ViT) Paper](https://arxiv.org/pdf/2010.11929)
+- [NVIDIA Self-Paced Training Courses](https://learn.nvidia.com/en-us/training/self-paced-courses)
+- [Building LLMs Guide](https://hugobowne.github.io/hugo-blog/posts/building-llms/)
+- [Generative AI Chatbot Demo](https://www.linkedin.com/feed/update/urn:li:activity:7212862386943197184/)
+- [Microsoft's Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [Google's Courses on Generative AI, Transformers, and BERT](https://www.linkedin.com/feed/update/urn:li:activity:7094195109746900993/)
+- [Deep Dives into AI: Lecture 1](https://www.youtube.com/watch?v=k2pD3k1485A)
+- [Deep Dives into AI: Lecture 2](https://www.youtube.com/watch?v=NZbgduKl9Zk)
+- [Amazon SageMaker Foundation Models](https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms/jumpstart-foundation-models)
+
+
 
 This list is a work in progress, and I will keep updating it with more valuable resources. Stay tuned! 😊
