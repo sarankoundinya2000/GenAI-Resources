@@ -1,1 +1,1 @@
-# NLP-Generative-AI-
+# NLP-Generative-AI- Resources
