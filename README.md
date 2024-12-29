@@ -24,6 +24,7 @@ Welcome to this curated list of helpful resources I've explored during my journe
 
 ### **Fine-Tuning LLMs**
 - [Practical Tips for Fine-Tuning LLMs by Sebastian Raschka](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms) 🔧
+- [Fine tuning notebooks by huggingface](https://huggingface.co/docs/transformers/en/notebooks)
 
 ### **Generative AI for Business**
 - [AWS Generative AI](https://aws.amazon.com/ai/generative-ai/?gclid=Cj0KCQjwh7K1BhCZARIsAKOrVqGhJk-4WN33Vvboqbx-6zrFDEJVRhE9uVyF4VFoenNKeX5kyuaxqRYaApwbEALw_wcB&trk=3ff624fa-338f-4424-8a4a-7d7616d2b922&sc_channel=ps&ef_id=Cj0KCQjwh7K1BhCZARIsAKOrVqGhJk-4WN33Vvboqbx-6zrFDEJVRhE9uVyF4VFoenNKeX5kyuaxqRYaApwbEALw_wcB:G:s&s_kwcid=AL!4422!3!686079219753!e!!g!!amazon%20generative%20ai!20901655886!158309130458) 🏢
